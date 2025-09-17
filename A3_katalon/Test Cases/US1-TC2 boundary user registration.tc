@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>US1-TC2 boundary user registration</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf09046b-b4c6-4249-9bf1-22e94ec00e48</testCaseGuid>
+</TestCaseEntity>

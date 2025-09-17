@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>US1-TC1 positive user registration</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>42b2e415-a7ae-4ef2-a5bb-368c50f27f10</testCaseGuid>
+</TestCaseEntity>
