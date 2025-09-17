@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>US2-TC1 positive home button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dbf9a665-78cb-45a6-ab46-1e3fd52147d5</testCaseGuid>
+</TestCaseEntity>

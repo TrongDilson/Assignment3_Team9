@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>US3-TC1 negative user create event with 1 missing key information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6efe388e-c50d-49d1-b2a0-7ce87c80cda6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_S</name>
+   <tag></tag>
+   <elementGuidId>99d3b912-0645-4eb1-b8d2-46f38d4f155c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-«r3»']/div/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.py-1.text-xs.font-medium.text-neutral-500</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;S&quot;s >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1654d716-b6d2-4a5a-828f-e1ad2a12c1c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-1 text-xs font-medium text-neutral-500</value>
+      <webElementGuid>f4bc6a87-5f01-495f-a066-3eb6460c079d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S</value>
+      <webElementGuid>3d7ac971-d5dd-474e-ba0c-3c28a19fac9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-«r3»&quot;)/div[@class=&quot;p-3&quot;]/div[@class=&quot;grid gap-6&quot;]/div[@class=&quot;space-y-4&quot;]/div[@class=&quot;grid grid-cols-7 gap-1 text-center&quot;]/div[@class=&quot;py-1 text-xs font-medium text-neutral-500&quot;]</value>
+      <webElementGuid>d008c09a-bd4d-4cdd-b72d-ac3f7d460494</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-«r3»']/div/div[3]/div/div/div</value>
+      <webElementGuid>0f943566-db51-40da-b696-bb6ac9e4083e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next month'])[1]/following::div[4]</value>
+      <webElementGuid>9696efd0-07f5-4a4b-be7f-0827f783e050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='August 2003'])[1]/following::div[4]</value>
+      <webElementGuid>b9cfdc27-883c-42a8-b9f2-e350af360471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/preceding::div[1]</value>
+      <webElementGuid>8f858a1a-8fa4-4cf0-898a-c53a48dd0812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T'])[1]/preceding::div[2]</value>
+      <webElementGuid>c1801760-bd1b-4c94-b8fd-7eb4154b9e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='S']/parent::*</value>
+      <webElementGuid>1bd088c3-e701-4996-bdef-f6f82a8d8a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>2a89c726-7256-42fb-a427-d4db636eaeb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'S' or . = 'S')]</value>
+      <webElementGuid>f4795ce9-e081-44c2-adb6-fdafac166a55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

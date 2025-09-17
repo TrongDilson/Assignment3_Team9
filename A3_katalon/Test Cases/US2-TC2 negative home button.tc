@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>US2-TC2 negative home button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2c6b550-6bb5-467a-abf0-9c73a00cb319</testCaseGuid>
+</TestCaseEntity>
