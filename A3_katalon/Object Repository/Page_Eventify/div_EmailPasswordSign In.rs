@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EmailPasswordSign In</name>
+   <tag></tag>
+   <elementGuidId>73619a00-773f-442d-a744-2eb27993ad09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.space-y-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;EmailPasswordSign In&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2273f0b2-7b28-4f23-861c-202e299f4217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>space-y-6</value>
+      <webElementGuid>70c9a9b9-1bcc-4ba9-9bc1-77e9889cc8a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EmailPasswordSign In</value>
+      <webElementGuid>94578d66-4c93-4372-bf73-179d6a39d40b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;flex min-h-screen flex-col&quot;]/main[@class=&quot;flex-1 bg-white pt-22&quot;]/div[@class=&quot;flex min-h-screen items-center justify-center bg-neutral-100 px-6 py-12&quot;]/div[@class=&quot;grid w-full max-w-4xl grid-cols-1 overflow-hidden rounded-2xl bg-white shadow-lg md:grid-cols-2&quot;]/div[@class=&quot;mx-auto flex w-full flex-col justify-center p-8 md:p-12&quot;]/div[@class=&quot;space-y-6&quot;]</value>
+      <webElementGuid>572371a3-4490-478c-a9c1-74417d85cea1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div/div/div[2]</value>
+      <webElementGuid>fe3dfcfa-9643-4883-8e9b-e1fa2ca66c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eventify'])[2]/following::div[1]</value>
+      <webElementGuid>3862c72e-86d3-494f-88ad-4eef15e0556e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome back'])[1]/following::div[1]</value>
+      <webElementGuid>52898642-331a-4d85-8df1-c6c57f5d7c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]</value>
+      <webElementGuid>c5dcdce3-6b8d-4d2f-9b5b-9325b91caad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'EmailPasswordSign In' or . = 'EmailPasswordSign In')]</value>
+      <webElementGuid>5d1a93f5-7237-4864-bd1b-ad4b0bfb77ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

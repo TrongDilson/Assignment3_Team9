@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RMIT  EventifyHomeContactSign InSign Up</name>
+   <tag></tag>
+   <elementGuidId>87ddfeb8-8ec6-4526-baef-fd0a8827c149</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/nav/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;RMIT × EventifyHomeContactSign InSign Up&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c0e479e-a655-4894-a9d7-0cba46c20285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-auto flex h-14 max-w-7xl items-center justify-between px-2 sm:h-16 sm:px-4 lg:px-8</value>
+      <webElementGuid>34d6f187-88eb-4536-9362-1aca07ebfbe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RMIT × EventifyHomeContactSign InSign Up</value>
+      <webElementGuid>c6192256-cec5-4c19-8346-eaf8d9ee3cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;flex min-h-screen flex-col&quot;]/nav[@class=&quot;fixed top-0 right-0 left-0 z-50 transition-all duration-300 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-800&quot;]/div[@class=&quot;mx-auto flex h-14 max-w-7xl items-center justify-between px-2 sm:h-16 sm:px-4 lg:px-8&quot;]</value>
+      <webElementGuid>6277e5eb-2311-42ae-8497-8a15d450f802</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/nav/div</value>
+      <webElementGuid>c89d5aa3-6ed4-4dc3-86a8-b042172d06c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div</value>
+      <webElementGuid>64ce18a9-8e93-4ef9-8ee3-0d735bbc3f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'RMIT × EventifyHomeContactSign InSign Up' or . = 'RMIT × EventifyHomeContactSign InSign Up')]</value>
+      <webElementGuid>2ecc591a-089b-4ce4-9201-d5f63350d404</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

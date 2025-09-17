@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>US4-TC2 View discussions as a non-member</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6853c2de-2c71-463f-bf3d-b1c9a56460a3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_9172025</name>
+   <tag></tag>
+   <elementGuidId>edce78d0-e05f-4e85-b305-80ee755db627</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/main/div/div/div[2]/ul/li[2]/div/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Cuộc thi Testathon9/17/2025Trường RMIT2 participants&quot;i >> internal:role=paragraph</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0ea14fe1-5db9-48ff-a9b7-2ccd3d2e4186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[10px] text-gray-500 sm:text-xs</value>
+      <webElementGuid>b78012bf-b77e-49c5-aaf7-c749603a40ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9/17/2025</value>
+      <webElementGuid>4e0cf8cc-b4fa-4113-93a2-ed961281aabb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/main[@class=&quot;h-[calc(100vh-4rem)] overflow-y-auto bg-gray-50 pb-20&quot;]/div[@class=&quot;rouned-full m-2 flex h-screen overflow-hidden bg-gray-100&quot;]/div[@class=&quot;flex h-full flex-col border-r border-gray-200 bg-white transition-all duration-300 ease-in-out w-64 sm:w-80&quot;]/div[@class=&quot;flex-1 overflow-y-auto&quot;]/ul[@class=&quot;divide-y divide-gray-200&quot;]/li[@class=&quot;cursor-pointer transition-colors  hover:bg-gray-50&quot;]/div[@class=&quot;p-2 sm:p-4&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;flex items-center space-x-2 sm:space-x-3&quot;]/div[1]/p[@class=&quot;text-[10px] text-gray-500 sm:text-xs&quot;]</value>
+      <webElementGuid>08bfdf6d-3d1e-42f3-90ae-45e8d44aa0d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/main/div/div/div[2]/ul/li[2]/div/div/div/div/p</value>
+      <webElementGuid>83315cba-867b-4591-82e0-e1ae45e64cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuộc thi Testathon'])[1]/following::p[1]</value>
+      <webElementGuid>3a65504f-380f-4c2d-9281-0888d4e44b13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saigon Central Park'])[1]/following::p[1]</value>
+      <webElementGuid>23a1c5a8-a38f-4e78-8a66-259f18b54009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trường RMIT'])[1]/preceding::p[1]</value>
+      <webElementGuid>b946110c-4590-468c-8e8f-9799c60ca7f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test event'])[1]/preceding::p[1]</value>
+      <webElementGuid>614533ac-b55a-4610-9f98-2e8e54ba290e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='9/17/2025']/parent::*</value>
+      <webElementGuid>3c2e9829-467d-4ff5-b701-689a25d80137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div/div/p</value>
+      <webElementGuid>b8ff2df6-6df2-467c-a549-0596142e2db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '9/17/2025' or . = '9/17/2025')]</value>
+      <webElementGuid>a5c5de3b-802e-4490-aff5-e4dffa375fe0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
